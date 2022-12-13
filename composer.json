@@ -21,7 +21,7 @@
         {
             "type": "vcs",
             "url": "https://github.com/draadnl/laravel-backpack-crud.git"
-        },
+        }
     ],
     "homepage": "https://github.com/laravel-backpack/langfilemanager",
     "license": "MIT",
