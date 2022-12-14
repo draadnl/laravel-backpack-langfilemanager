@@ -39,7 +39,7 @@
         }
     ],
     "require": {
-        "backpack/crud": "dev-three-six"
+        "backpack/crud": "dev-three-four"
     },
     "require-dev": {
         "phpunit/phpunit" : "4.*",
